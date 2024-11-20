@@ -8,3 +8,4 @@ public class AppTest {
         assertEquals(5, App.add(2, 3), "2 + 3 should equal 5");
     }
 }
+
